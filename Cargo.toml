@@ -5,7 +5,7 @@ homepage = "https://stereokit.net/"
 keywords = ["stereokit", "XR", "VR", "AR", "sys"]
 license = "MIT"
 links = "StereoKitC"
-name = "stereokit-sys"
+name = "stereokit-sys-mod"
 repository = "https://github.com/Resident_Fortress/stereokit-sys"
 version = "1.0.0"
 
