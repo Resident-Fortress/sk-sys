@@ -5,9 +5,9 @@ homepage = "https://stereokit.net/"
 keywords = ["stereokit", "XR", "VR", "AR", "sys"]
 license = "MIT"
 links = "StereoKitC"
-name = "stereokit-sys"
+name = "stereokit-sys-mod"
 repository = "https://github.com/Resident_Fortress/stereokit-sys"
-version = "2.5.7"
+version = "1.0.0"
 
 include = [
   "Cargo.toml",

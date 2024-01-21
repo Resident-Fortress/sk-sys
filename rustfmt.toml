@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13af7afd33ece5ab4c87b2d41df7c7b7ec92c6cdd91f322138f1375c8d95d9dc
-size 41
+hard_tabs = true
+# fn_single_line = true
